@@ -1,13 +1,17 @@
 #include "main.h"
 
-/**
- * main - check the code
+\**
+ * print_numbers - check for a digit (0,1,2,3,4,5,6,7,8,9).
  *
- * Return: Always 0 or 1 (success)
+ * Return: Always 0
  */
-int main(void)
+void print_number (void)
 {
-	print_numbers();
-	return (0);
+	int c;
 
+for (c = 48; c < 58; c++)
+{
+_putchar(c);
+}
+_putchar('/n');
 }
