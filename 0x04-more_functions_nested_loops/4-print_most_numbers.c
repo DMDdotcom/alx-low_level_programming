@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_most_numbers - check for a digit(0 to 9)
+ * print_most_numbers - checks for checks for a digit (0 through 9).
  *
- * Return: always 0.
+ * Return: Always 0.
  */
 void print_most_numbers(void)
 {
