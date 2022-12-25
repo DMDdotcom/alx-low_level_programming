@@ -2,11 +2,10 @@
 
 /**
  * main - prints a giving phrase
- * Return: Always 0 if exited properly, non-zero otherwise
+ * Return: 0 (success)
  */
-
 int main(void)
 {
-        puts("\"Programming is like building a multilingual puzzle);
-        return (0);
+	puts("\"programming is like building a multilingual puzzle");
+	return (0);
 }
