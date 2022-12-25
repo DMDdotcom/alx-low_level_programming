@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -prints a giving phrase
- *
+ * main - prints a giving phrase
  * Return: Always 0 if exited properly, non-zero otherwise
  */
 
