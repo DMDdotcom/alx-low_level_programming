@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 
 	result = 0;
 
-	if (num < 8, 0)
+	if (num < 0)
 
 	{
 printf("0\n");
